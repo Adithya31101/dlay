@@ -1,0 +1,15 @@
+layout lg
+[][][]
+[  ][]
+[    ]
+layout sm
+[][]
+[  ]
+[][]
+[  ]
+[  ]
+type=flex
+tag=div
+placeholder=none
+bootstrap=true
+
